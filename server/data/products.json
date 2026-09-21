@@ -1,0 +1,1540 @@
+{
+  "categories": [
+    {
+      "id": "xiaomi",
+      "name": "Xiaomi",
+      "icon": "📱"
+    },
+    {
+      "id": "poco",
+      "name": "POCO",
+      "icon": "⚡"
+    },
+    {
+      "id": "redmi",
+      "name": "Redmi",
+      "icon": "🔥"
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "icon": "🌌"
+    },
+    {
+      "id": "samsung-accesorios",
+      "name": "Cargadores Samsung",
+      "icon": "🔌"
+    },
+    {
+      "id": "iphone",
+      "name": "iPhone",
+      "icon": "🍎"
+    },
+    {
+      "id": "ipad",
+      "name": "iPad",
+      "icon": "📋"
+    },
+    {
+      "id": "airpods",
+      "name": "AirPods",
+      "icon": "🎧"
+    },
+    {
+      "id": "apple-cargadores",
+      "name": "Cargadores Apple",
+      "icon": "🔋"
+    },
+    {
+      "id": "honor",
+      "name": "Honor",
+      "icon": "🏆"
+    },
+    {
+      "id": "tecno",
+      "name": "Tecno",
+      "icon": "📶"
+    },
+    {
+      "id": "otras-marcas",
+      "name": "Otras Marcas Económicas",
+      "icon": "💚"
+    },
+    {
+      "id": "infinix",
+      "name": "Infinix",
+      "icon": "🔘"
+    },
+    {
+      "id": "motorola",
+      "name": "Motorola",
+      "icon": "📟"
+    },
+    {
+      "id": "gamers",
+      "name": "Gamers",
+      "icon": "🎮"
+    },
+    {
+      "id": "tablets",
+      "name": "Tablets",
+      "icon": "⭐"
+    },
+    {
+      "id": "accesorios-xiaomi",
+      "name": "Accesorios Xiaomi",
+      "icon": "⌚"
+    }
+  ],
+  "products": [
+    {
+      "id": "xi-17-ultra",
+      "categoryId": "xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 17 Ultra",
+      "specs": "16GB / 512GB",
+      "price": 5199,
+      "badges": [
+        "Gama Alta"
+      ],
+      "stock": true
+    },
+    {
+      "id": "xi-17",
+      "categoryId": "xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 17",
+      "specs": "12GB / 512GB",
+      "price": 3499,
+      "badges": [
+        "Gama Alta"
+      ],
+      "stock": true
+    },
+    {
+      "id": "xi-17t",
+      "categoryId": "xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 17T",
+      "specs": "512GB",
+      "price": 2399,
+      "badges": [
+        "Gama Alta"
+      ],
+      "stock": true
+    },
+    {
+      "id": "xi-17t-pro",
+      "categoryId": "xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 17T Pro",
+      "specs": "512GB",
+      "price": 2999,
+      "badges": [
+        "Gama Alta",
+        "Registrado",
+        "Garantía Oficial"
+      ],
+      "stock": true
+    },
+    {
+      "id": "poco-m8-5g",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO M8 5G",
+      "specs": "8GB / 256GB",
+      "price": 1050,
+      "badges": [
+        "Registrado"
+      ],
+      "stock": true
+    },
+    {
+      "id": "poco-m8-pro-5g",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO M8 Pro 5G",
+      "specs": "8GB / 256GB",
+      "price": 1320,
+      "badges": [
+        "Registrado"
+      ],
+      "stock": true
+    },
+    {
+      "id": "poco-x8-pro-8-512",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO X8 Pro",
+      "specs": "8GB / 512GB",
+      "price": 1550,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-x8-pro-12-512",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO X8 Pro",
+      "specs": "12GB / 512GB",
+      "price": 1550,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-x8-pro-max-12-256",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO X8 Pro Max",
+      "specs": "12GB / 256GB",
+      "price": 1799,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-x8-pro-max-12-512",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO X8 Pro Max",
+      "specs": "12GB / 512GB",
+      "price": 1999,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-f8-pro",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO F8 Pro",
+      "specs": "12GB / 512GB",
+      "price": 2350,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-f8-ultra-12-256",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO F8 Ultra",
+      "specs": "12GB / 256GB",
+      "price": 2650,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "poco-f8-ultra-16-512",
+      "categoryId": "poco",
+      "brand": "POCO",
+      "name": "POCO F8 Ultra",
+      "specs": "16GB / 512GB",
+      "price": 3000,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-6-128",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15",
+      "specs": "6GB / 128GB",
+      "price": 769,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-8-256",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15",
+      "specs": "8GB / 256GB",
+      "price": 879,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-pro-4g",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro 4G",
+      "specs": "8GB / 256GB",
+      "price": 1120,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-pro-5g-256",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro 5G",
+      "specs": "8GB / 256GB",
+      "price": 1330,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-pro-5g-512",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro 5G",
+      "specs": "8GB / 512GB",
+      "price": 1430,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-pro-plus-256",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro Plus 5G",
+      "specs": "12GB / 256GB",
+      "price": 1650,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-15-pro-plus-512",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 15 Pro Plus 5G",
+      "specs": "12GB / 512GB",
+      "price": 1849,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-17",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 17",
+      "specs": "6+6GB / 256GB",
+      "price": 1079,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-17-pro",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 17 Pro",
+      "specs": "6+6GB / 256GB",
+      "price": 1500,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-note-17-pro-max",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi Note 17 Pro Max",
+      "specs": "8+8GB / 256GB",
+      "price": 1999,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-a7-3-64",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi A7",
+      "specs": "3GB / 64GB",
+      "price": 399,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-a7-pro-4-64",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi A7 Pro",
+      "specs": "4GB / 64GB",
+      "price": 430,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-a7-pro-4-128",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi A7 Pro",
+      "specs": "4GB / 128GB",
+      "price": 499,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-15c-4-128",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi 15C",
+      "specs": "4GB / 128GB",
+      "price": 499,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-15c-4-256",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi 15C",
+      "specs": "4GB / 256GB",
+      "price": 549,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-17-8-256",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi 17",
+      "specs": "8GB / 256GB",
+      "price": 879,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-17-6-128",
+      "categoryId": "redmi",
+      "brand": "Redmi",
+      "name": "Redmi 17",
+      "specs": "6GB / 128GB",
+      "price": 749,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-zfold8-ultra",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold 8 Ultra",
+      "specs": "256GB · Plegable",
+      "price": 7400,
+      "badges": [
+        "Premium",
+        "Consultar"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-zfold8",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold 8",
+      "specs": "512GB · Plegable",
+      "price": 7000,
+      "badges": [
+        "Premium",
+        "Consultar"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-zflip8",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy Z Flip 8",
+      "specs": "256GB · Plegable",
+      "price": 3999,
+      "badges": [
+        "Premium",
+        "Consultar"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s25fe-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S25 FE",
+      "specs": "256GB",
+      "price": 2300,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-s25fe-512",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S25 FE",
+      "specs": "512GB",
+      "price": 2500,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-s25ultra-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra",
+      "specs": "12GB / 256GB",
+      "price": 3100,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-s25ultra-512",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra",
+      "specs": "12GB / 512GB",
+      "price": 3350,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-s25ultra-1tb",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra",
+      "specs": "12GB / 1TB",
+      "price": 3750,
+      "badges": [
+        "Consultar"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26",
+      "specs": "256GB",
+      "price": 3000,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26-512",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26",
+      "specs": "512GB",
+      "price": 3399,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26plus-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Plus",
+      "specs": "256GB",
+      "price": 3600,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26ultra-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Ultra",
+      "specs": "256GB",
+      "price": 3550,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26ultra-512",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Ultra",
+      "specs": "512GB",
+      "price": 4050,
+      "badges": [
+        "Nuevo"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-s26ultra-1tb",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Ultra",
+      "specs": "1TB",
+      "price": 5100,
+      "badges": [
+        "Nuevo",
+        "A Pedido"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-a57-12-512",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A57 5G",
+      "specs": "12GB / 512GB",
+      "price": 2299,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a57-8-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A57 5G",
+      "specs": "8GB / 256GB",
+      "price": 1699,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a37-8-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A37 5G",
+      "specs": "8GB / 256GB",
+      "price": 1479,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a27-8-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A27 5G",
+      "specs": "8GB / 256GB",
+      "price": 1379,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a17-5g-4-128",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A17 5G",
+      "specs": "4GB / 128GB",
+      "price": 799,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a17-4g-8-256",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A17 4G",
+      "specs": "8GB / 256GB",
+      "price": 899,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a17-4g-4-128",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A17 4G",
+      "specs": "4GB / 128GB",
+      "price": 749,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "sam-a16-4-128",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A16",
+      "specs": "4GB / 128GB",
+      "price": 540,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-a07-4-64",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A07",
+      "specs": "4GB / 64GB",
+      "price": 399,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "sam-a07-4-128",
+      "categoryId": "samsung",
+      "brand": "Samsung",
+      "name": "Galaxy A07",
+      "specs": "4GB / 128GB",
+      "price": 499,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "cargador-25w",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 25W",
+      "specs": "Carga rápida",
+      "price": 79,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cargador-25w-cable",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 25W + Cable Tipo C",
+      "specs": "Carga rápida",
+      "price": 99,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cargador-45w",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 45W",
+      "specs": "Carga súper rápida",
+      "price": 99,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cargador-45w-cable",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 45W + Cable Tipo C",
+      "specs": "Carga súper rápida",
+      "price": 149,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cargador-60w",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 60W",
+      "specs": "Carga súper rápida",
+      "price": 170,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cargador-60w-cable",
+      "categoryId": "samsung-accesorios",
+      "brand": "Samsung",
+      "name": "Cargador 60W + Cable",
+      "specs": "Carga súper rápida",
+      "price": 189,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-256-sim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "256GB · Bandeja SIM",
+      "price": 5249,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-256-esim-color",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "256GB · E-SIM · Azul/Naranja",
+      "price": 5799,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-256-esim-silver",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "256GB · E-SIM · Silver",
+      "price": 4849,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-512-esim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "512GB · E-SIM",
+      "price": 5699,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-512-sim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "512GB · Bandeja SIM",
+      "price": 6399,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-max-1tb",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "specs": "1TB · E-SIM",
+      "price": 6600,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-256-esim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro",
+      "specs": "256GB · E-SIM",
+      "price": 4449,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-pro-256-sim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro",
+      "specs": "256GB · Bandeja SIM",
+      "price": 4799,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-256-sim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17",
+      "specs": "256GB · Bandeja SIM",
+      "price": 3249,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17-256-esim",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17",
+      "specs": "256GB · E-SIM",
+      "price": 3249,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-17e-256",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 17e",
+      "specs": "256GB · Bandeja SIM",
+      "price": 2600,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-15-128",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 15",
+      "specs": "128GB · Bandeja SIM + eSIM",
+      "price": 2549,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "iphone-16-128",
+      "categoryId": "iphone",
+      "brand": "Apple",
+      "name": "iPhone 16",
+      "specs": "128GB · SIM",
+      "price": 2799,
+      "badges": [
+        "Oferta"
+      ],
+      "stock": true
+    },
+    {
+      "id": "ipad-air-m4-128",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Air M4 11\"",
+      "specs": "128GB",
+      "price": 2850,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-air-m4-256",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Air M4 11\"",
+      "specs": "256GB",
+      "price": 3200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-pro-m5-11-256",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Pro M5 11\"",
+      "specs": "256GB",
+      "price": 4300,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-pro-m5-11-512",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Pro M5 11\"",
+      "specs": "512GB",
+      "price": 5300,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-pro-m5-13-256",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Pro M5 13\"",
+      "specs": "256GB",
+      "price": 5200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-pro-m5-13-512",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad Pro M5 13\"",
+      "specs": "512GB",
+      "price": 6200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "ipad-a16-128",
+      "categoryId": "ipad",
+      "brand": "Apple",
+      "name": "iPad A16",
+      "specs": "128GB",
+      "price": 1650,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "airpods-4",
+      "categoryId": "airpods",
+      "brand": "Apple",
+      "name": "AirPods 4",
+      "specs": "",
+      "price": 599,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "airpods-pro-2",
+      "categoryId": "airpods",
+      "brand": "Apple",
+      "name": "AirPods Pro 2da Gen",
+      "specs": "",
+      "price": 799,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "airpods-max",
+      "categoryId": "airpods",
+      "brand": "Apple",
+      "name": "AirPods Max",
+      "specs": "",
+      "price": 2299,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "earpods-tipoc",
+      "categoryId": "airpods",
+      "brand": "Apple",
+      "name": "EarPods Tipo C",
+      "specs": "Cable",
+      "price": 119,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "adaptador-apple-40w",
+      "categoryId": "apple-cargadores",
+      "brand": "Apple",
+      "name": "Adaptador Apple 40W",
+      "specs": "",
+      "price": 160,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "adaptador-apple-20w",
+      "categoryId": "apple-cargadores",
+      "brand": "Apple",
+      "name": "Adaptador Apple 20W",
+      "specs": "",
+      "price": 109,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "cable-c-a-c-apple",
+      "categoryId": "apple-cargadores",
+      "brand": "Apple",
+      "name": "Cable C a C Apple",
+      "specs": "",
+      "price": 99,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-x5c",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X5C",
+      "specs": "4GB / 128GB",
+      "price": 450,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "honor-x5c-plus",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X5C Plus",
+      "specs": "4GB / 256GB",
+      "price": 520,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "honor-x5d",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X5D",
+      "specs": "4GB / 128GB",
+      "price": 580,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "honor-x6c",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X6C",
+      "specs": "6GB / 256GB",
+      "price": 599,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-x6e",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X6E",
+      "specs": "6GB / 256GB",
+      "price": 699,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-x7d",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X7D",
+      "specs": "8GB / 256GB",
+      "price": 850,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-x8d",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor X8D",
+      "specs": "8GB / 256GB",
+      "price": 1099,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-600e",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor 600E",
+      "specs": "8GB / 256GB",
+      "price": 1600,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-600",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor 600",
+      "specs": "8GB / 256GB",
+      "price": 1949,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-600-pro",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor 600 Pro",
+      "specs": "12GB / 512GB",
+      "price": 3200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-magic-8-pro",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor Magic 8 Pro",
+      "specs": "12GB / 512GB",
+      "price": 4300,
+      "badges": [
+        "Gama Alta"
+      ],
+      "stock": true
+    },
+    {
+      "id": "honor-magic-8-lite-256",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor Magic 8 Lite",
+      "specs": "8GB / 256GB",
+      "price": 1400,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "honor-magic-8-lite-512",
+      "categoryId": "honor",
+      "brand": "Honor",
+      "name": "Honor Magic 8 Lite",
+      "specs": "8GB / 512GB",
+      "price": 1600,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "tecno-spark-50",
+      "categoryId": "tecno",
+      "brand": "Tecno",
+      "name": "Tecno Spark 50",
+      "specs": "4GB / 256GB",
+      "price": 699,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-neo-5-gt",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE Neo 5 GT",
+      "specs": "8GB / 256GB",
+      "price": 1399,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-neo-5",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE Neo 5",
+      "specs": "8GB / 256GB",
+      "price": 849,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-v80-pro",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE V80 Pro",
+      "specs": "8GB / 256GB",
+      "price": 749,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-v80-max-8",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE V80 Max",
+      "specs": "8GB / 256GB",
+      "price": 679,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-v80-max-4",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE V80 Max",
+      "specs": "4GB / 256GB",
+      "price": 619,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "zte-a36e",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE A36e",
+      "specs": "2GB / 64GB",
+      "price": 299,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "zte-a35-core",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE A35 Core",
+      "specs": "2GB / 32GB",
+      "price": 180,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "zte-v60-smart",
+      "categoryId": "otras-marcas",
+      "brand": "ZTE",
+      "name": "ZTE V60 Smart",
+      "specs": "4GB / 256GB",
+      "price": 400,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "infinix-note-50-pro",
+      "categoryId": "infinix",
+      "brand": "Infinix",
+      "name": "Infinix Note 50 Pro",
+      "specs": "8GB / 256GB",
+      "price": 1050,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "infinix-hot-60-pro-plus",
+      "categoryId": "infinix",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60 Pro Plus",
+      "specs": "8GB / 256GB",
+      "price": 805,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "infinix-hot-60-pro",
+      "categoryId": "infinix",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60 Pro",
+      "specs": "8GB / 256GB",
+      "price": 750,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "infinix-smart-20",
+      "categoryId": "infinix",
+      "brand": "Infinix",
+      "name": "Infinix Smart 20",
+      "specs": "4GB / 128GB",
+      "price": 455,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "moto-g06-4-128",
+      "categoryId": "motorola",
+      "brand": "Motorola",
+      "name": "Motorola G06",
+      "specs": "4GB / 128GB",
+      "price": 399,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "moto-g06-4-256",
+      "categoryId": "motorola",
+      "brand": "Motorola",
+      "name": "Motorola G06",
+      "specs": "4GB / 256GB",
+      "price": 499,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "moto-g15-4-512",
+      "categoryId": "motorola",
+      "brand": "Motorola",
+      "name": "Motorola G15",
+      "specs": "4GB / 512GB",
+      "price": 540,
+      "badges": [
+        "Económico"
+      ],
+      "stock": true
+    },
+    {
+      "id": "red-magic-11s-pro",
+      "categoryId": "gamers",
+      "brand": "Red Magic",
+      "name": "Red Magic 11S Pro 5G",
+      "specs": "16GB / 512GB",
+      "price": 4300,
+      "badges": [
+        "Gamer",
+        "Consultar Stock"
+      ],
+      "stock": true
+    },
+    {
+      "id": "redmi-pad-se2",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Redmi Pad SE 2",
+      "specs": "4GB / 128GB",
+      "price": 680,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-pad-pro-6-128",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Redmi Pad Pro",
+      "specs": "6GB / 128GB",
+      "price": 1200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-pad-pro-8-256",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Redmi Pad Pro",
+      "specs": "8GB / 256GB",
+      "price": 1350,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-pad-4-128",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Redmi Pad",
+      "specs": "4GB / 128GB",
+      "price": 900,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "teclado-pad-pro",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Teclado para Pad Pro",
+      "specs": "Accesorio",
+      "price": 250,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "lapiz-pad-pro",
+      "categoryId": "tablets",
+      "brand": "Redmi",
+      "name": "Lápiz para Pad Pro",
+      "specs": "Accesorio",
+      "price": 200,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "galaxy-tab-8a",
+      "categoryId": "tablets",
+      "brand": "Samsung",
+      "name": "Galaxy Tab 8A",
+      "specs": "3GB / 32GB · Open Box",
+      "price": 390,
+      "badges": [
+        "Open Box"
+      ],
+      "stock": true
+    },
+    {
+      "id": "galaxy-tab-a11",
+      "categoryId": "tablets",
+      "brand": "Samsung",
+      "name": "Galaxy Tab A11",
+      "specs": "4GB / 128GB · Nuevo sellado",
+      "price": 580,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-watch-4",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Watch 4",
+      "specs": "",
+      "price": 299,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "watch-s3",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Watch S3",
+      "specs": "",
+      "price": 499,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "watch-2",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Watch 2",
+      "specs": "",
+      "price": 599,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-watch-3",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Watch 3",
+      "specs": "",
+      "price": 199,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-watch-3-active",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Watch 3 Active",
+      "specs": "",
+      "price": 169,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "miband-8",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Pulsera Mi Band 8",
+      "specs": "",
+      "price": 99,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "miband-8-active",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Pulsera Mi Band 8 Active",
+      "specs": "",
+      "price": 89,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-buds-6-play",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Buds 6 Play",
+      "specs": "",
+      "price": 70,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-buds-6-lite",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Buds 6 Lite",
+      "specs": "",
+      "price": 99,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "xiaomi-buds-5",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Buds 5",
+      "specs": "",
+      "price": 279,
+      "badges": [],
+      "stock": true
+    },
+    {
+      "id": "redmi-buds-5-pro",
+      "categoryId": "accesorios-xiaomi",
+      "brand": "Xiaomi",
+      "name": "Redmi Buds 5 Pro",
+      "specs": "",
+      "price": 289,
+      "badges": [],
+      "stock": true
+    }
+  ]
+}

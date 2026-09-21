@@ -1,0 +1,149 @@
+.admin-wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.admin-card {
+  max-width: 400px;
+  margin: 60px auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 32px;
+  box-shadow: var(--shadow);
+}
+
+.admin-card h1 { margin: 0 0 6px; font-size: 1.4rem; }
+.admin-sub { color: var(--text-dim); margin: 0 0 24px; font-size: 0.9rem; }
+
+.admin-card label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  margin: 14px 0 6px;
+}
+
+.admin-card input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.admin-card input:focus {
+  outline: none;
+  border-color: var(--brand);
+}
+
+.admin-card button { margin-top: 22px; }
+
+.admin-error {
+  color: var(--accent);
+  font-size: 0.85rem;
+  margin-top: 12px;
+  min-height: 1em;
+}
+
+.admin-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 6px;
+}
+
+.admin-toolbar h1 { margin: 0; font-size: 1.5rem; }
+
+.admin-toolbar-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.admin-toolbar-actions input,
+.admin-toolbar-actions select {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.88rem;
+}
+
+.admin-hint {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  margin: 8px 0 20px;
+}
+
+.table-wrap {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: auto;
+  box-shadow: var(--shadow);
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+}
+
+.admin-table th, .admin-table td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.88rem;
+}
+
+.admin-table th {
+  color: var(--text-dim);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  background: var(--surface-2);
+}
+
+.admin-table tr:last-child td { border-bottom: none; }
+
+.price-input-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.price-input-group input {
+  width: 100px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+.row-status {
+  font-size: 0.78rem;
+  min-width: 70px;
+}
+
+.row-status.saving { color: var(--brand-2); }
+.row-status.saved { color: var(--success); }
+.row-status.error { color: var(--accent); }
+
+.stock-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+
+.stock-toggle input { accent-color: var(--success); }

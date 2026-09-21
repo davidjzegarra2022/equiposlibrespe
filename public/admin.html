@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Panel Admin | SmartSelect</title>
+  <link rel="icon" type="image/jpeg" href="img/logo-icon.jpg" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/admin.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="brand">
+        <img class="logo-dot" src="img/logo-icon.jpg" alt="SmartSelect" />
+        SmartSelect <span style="color:var(--text-dim); font-weight:500; font-size:0.9rem;">/ Admin</span>
+      </a>
+      <div class="header-actions" id="sessionActions"></div>
+    </div>
+  </header>
+
+  <main class="admin-wrap">
+
+    <section id="loginView" class="admin-card">
+      <h1>Ingresar al panel</h1>
+      <p class="admin-sub">Actualiza los precios de la tienda en tiempo real.</p>
+      <form id="loginForm">
+        <label>Usuario</label>
+        <input type="text" id="username" autocomplete="username" required />
+        <label>Contraseña</label>
+        <input type="password" id="password" autocomplete="current-password" required />
+        <button type="submit" class="btn btn-primary btn-block">Iniciar sesión</button>
+        <p class="admin-error" id="loginError"></p>
+      </form>
+    </section>
+
+    <section id="dashboardView" class="admin-dashboard" style="display:none;">
+      <div class="admin-toolbar">
+        <h1>Editor de precios</h1>
+        <div class="admin-toolbar-actions">
+          <input type="text" id="adminSearch" placeholder="Buscar producto..." />
+          <select id="adminCategoryFilter"></select>
+        </div>
+      </div>
+      <p class="admin-hint">Los cambios se publican de inmediato en la tienda pública.</p>
+      <div class="table-wrap">
+        <table class="admin-table">
+          <thead>
+            <tr>
+              <th>Categoría</th>
+              <th>Producto</th>
+              <th>Especificaciones</th>
+              <th>Precio (S/)</th>
+              <th>Stock</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="adminTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "smartselect-store",
+  "version": "1.0.0",
+  "description": "SmartSelect - Tienda de celulares con catalogo dinamico y panel de precios para administrador",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
