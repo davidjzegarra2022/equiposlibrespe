@@ -302,6 +302,7 @@ a { color: inherit; }
   object-fit: cover;
   display: block;
   background: var(--surface-2);
+  cursor: zoom-in;
 }
 
 .gallery-card figcaption {
@@ -781,4 +782,52 @@ a { color: inherit; }
 @media (max-width: 640px) {
   .header-inner { flex-direction: column; align-items: stretch; }
   .header-actions { justify-content: space-between; }
+}
+
+/* ---------- Lightbox (zoom de imagenes) ---------- */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 24px;
+  background: rgba(6, 9, 20, 0.88);
+  backdrop-filter: blur(2px);
+}
+
+.lightbox-overlay.open {
+  display: flex;
+}
+
+.lightbox-overlay img {
+  max-width: min(90vw, 1100px);
+  max-height: 85vh;
+  border-radius: 10px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: scale(1.05);
 }
